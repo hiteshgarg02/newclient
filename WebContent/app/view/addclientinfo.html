@@ -1,0 +1,118 @@
+<div data-ng-controller="addclientinfocontroller">
+							<div class="login-top agileinfo">
+								<h2>Add New Client</h2>
+								
+								<form action="#" method="post">
+									<div class="w3_agileits_main_grid w3l_main_grid">
+										<div class="agileits_grid">
+											<h5>Name * </h5>
+											<div class="name">
+												<input type="text" name="First name" placeholder="Your Name" required="" data-ng-model="name">
+											</div>
+											<div class="clear"></div>
+										</div>
+									</div>
+									<div class="w3_agileits_main_grid w3l_main_grid">
+										<div class="agileits_grid">
+											<h5>Organization</h5>
+												<input type="org" name="org" placeholder="Organisation Name" data-ng-model="organisation">
+										</div>
+									</div>
+									<div class="w3_agileits_main_grid w3l_main_grid">
+										<div class="agileits_grid">
+											<h5>Address *</h5>
+												<input type="address" name="address" placeholder="Your Address" required="" data-ng-model="address">
+										</div>
+									</div>
+									<div class="w3_agileits_main_grid w3l_main_grid">
+										<div class="agileits_grid">
+											<h5>Phone Number</h5>
+												<input type="phone" name="phone" placeholder="Your Contact Number" data-ng-model="phone">
+										</div>
+									</div>
+									
+									<!-- <div class="fromtop">
+										<div class="agileinfo_main_grid">
+											<div class="agileits_w3layouts_grid">
+												<h5>From*</h5>
+												<select id="category1" name="category1" required="">
+													<option value="category1">Australia</option>
+													<option value="category2">Singapore</option>
+													<option value="category3">America</option>
+													<option value="category3">London</option>
+													<option value="category3">Goa</option>
+													<option value="category3">Canada</option>
+													<option value="category3">Srilanka</option>
+												</select>
+											</div>
+										</div>
+										
+										<div class="agileinfo_main_grid">
+											<div class="agileits_w3layouts_grid">
+												<h5>To*</h5>
+												<select id="category1" name="category1" required="">
+													<option value="category2">Singapore</option>
+													<option value="category1">Australia</option>
+													<option value="category3">America</option>
+													<option value="category3">London</option>
+													<option value="category3">Goa</option>
+													<option value="category3">Canada</option>
+													<option value="category3">Srilanka</option>
+												</select>
+											</div>
+										</div>
+										<div class="clear"></div>
+									</div>
+									
+										<div class="agileits_main_grid w3_agileits_main_grid">
+											<div class="wthree_grid">
+												<h5>Adults*</h5>
+												<select id="category1" name="category1" required="">
+													<option value="category1">01</option>
+													<option value="category2">02</option>
+													<option value="category3">03</option>
+													<option value="category4">04</option>
+													<option value="category2">05</option>
+													<option value="category3">06</option>
+												</select>
+											</div>
+										</div>
+										
+										<div class="agileinfo_main_grid">
+											<div class="agileits_w3layouts_grid">
+												<h5>Children*</h5>
+												<select id="category1" name="category1" required="">
+													<option value="category1">01</option>
+													<option value="category2">02</option>
+													<option value="category3">03</option>
+													<option value="category4">04</option>
+													<option value="category2">05</option>
+													<option value="category3">06</option>
+												</select>
+											</div>
+										</div>
+										<div class="clear"></div> -->
+										
+										<div class="agileinfo_main_grid1">
+											<div class="agileits_w3layouts_grid mim">
+												<h5>Country*</h5>
+												<select id="country" name="country" data-ng-options="item as item.description for item in countryselection" data-ng-model="country">
+												</select>
+											</div>
+										</div>
+										
+										<div class="agileinfo_main_grid1">
+											<div class="agileits_w3layouts_grid mim">
+												<h5>Comments*</h5>
+												<div class="rteditable" style="height:189px" data-ui-tinymce="loadtinymce" data-ng-model="comment" style="width:100%"></div>
+												</select>
+											</div>
+										</div>
+										
+										<div class="clear"></div>
+											<div class="aitssubmitw3ls">
+												<input type="Save" name="Save" value="Save Client" data-ng-click="saverecord();">
+											</div>
+								</form>
+							</div>
+						</div>

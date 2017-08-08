@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html data-ng-app="clientInventory">
+<head>
+<title>Client Inventory</title>
+<!--meta-tags-->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta name="keywords" content="Simple Statistics Responsive Widget,Login form widgets, Sign up Web forms , Login signup Responsive web form,Flat Pricing table,Flat Drop downs,Registration Forms,News letter Forms,Elements" />
+<script data-main="init.js" src="lib/require/require.js"></script>
+
+<!--meta-tags-->
+
+<!--css-links-->
+<!-- <link rel="stylesheet" href="css/jquery-ui.css" /> -->
+<link href="app/css/style.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="app/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
+<!--//css-links-->
+
+<!-- online-fonts -->
+<link href="//fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext,vietnamese" rel="stylesheet">
+<!--//online-fonts -->
+								
+</head>
+<body>
+	<h1>ABC Client Inventory</h1>
+<!-- main-section -->
+	<div class="head agile">
+		<div class="login w3">
+			<div class="sap_tabs">
+				<div id="horizontalTab" style="display: block; width: 100%; margin: 0px;">
+					<ul class="resp-tabs-list">
+						<li class="resp-tab-item"><span data-ng-click="client.addclient = false;client.viewclient = true;client.updateclient = false;client.emailclient = false;">Client Data</span></li>
+						<li class="resp-tab-item" ><span data-ng-click="client.addclient = true;client.viewclient = false;client.updateclient = false;client.emailclient = false;">Add Client</span></li>
+						<!-- <li class="resp-tab-item" ><span data-ng-click="client.addclient = false;client.viewclient = false;client.updateclient = true;client.emailclient = false;">Update Client</span></li> -->
+						<li class="resp-tab-item" ><span data-ng-click="client.addclient = false;client.viewclient = false;client.updateclient = false;client.emailclient = true;">Mail Client</span></li>
+						
+					</ul>
+					<div data-ng-show="client.viewclient">
+						<span data-ng-include="'app/view/viewclientinfo.html'"></span>
+					</div>
+					<div data-ng-show="client.addclient">
+						<span data-ng-include="'app/view/addclientinfo.html'"></span>
+					</div>
+					<!--<div data-ng-show="client.updateclient">
+						<span data-ng-include="'app/view/updateclientinfo.html'"></span>
+					</div> -->
+					<div data-ng-show="client.emailclient">
+							<span data-ng-include="'app/view/emailclientinfo.html'"></span>
+					</div>		  	 
+				</div>
+			</div>	
+		</div>	
+		<div class="clear"></div>
+	</div>	
+<!-- //main-section -->
+
+<!-- copyright -->
+	<div class="footer agile-w3l">
+		<p>©2017 ABC Corporation. All Rights Reserved</p>
+	</div>
+<!-- copyright -->
+
+
+</body>
+</html>

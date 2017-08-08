@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/javax.persistence-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/RTC+Rewrite/eclipseLuna 4.4.0/configuration/org.eclipse.osgi/1313/0/.cp/resources/server_runtime/dev/api/spec/com.ibm.ws.javaee.annotation.1.1_1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/RTC+Rewrite/eclipseLuna 4.4.0/configuration/org.eclipse.osgi/1313/0/.cp/resources/server_runtime/dev/api/spec/com.ibm.ws.javaee.el.2.2_1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/RTC+Rewrite/eclipseLuna 4.4.0/configuration/org.eclipse.osgi/1313/0/.cp/resources/server_runtime/dev/api/spec/com.ibm.ws.javaee.jaxrs.1.1_1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/RTC+Rewrite/eclipseLuna 4.4.0/configuration/org.eclipse.osgi/1313/0/.cp/resources/server_runtime/dev/api/spec/com.ibm.ws.javaee.jsp.2.2_1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/RTC+Rewrite/eclipseLuna 4.4.0/configuration/org.eclipse.osgi/1313/0/.cp/resources/server_runtime/dev/api/spec/com.ibm.ws.javaee.jsp.tld.2.2_1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/RTC+Rewrite/eclipseLuna 4.4.0/configuration/org.eclipse.osgi/1313/0/.cp/resources/server_runtime/dev/api/spec/com.ibm.ws.javaee.jstl.1.2_1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/RTC+Rewrite/eclipseLuna 4.4.0/configuration/org.eclipse.osgi/1313/0/.cp/resources/server_runtime/dev/api/spec/com.ibm.ws.javaee.servlet.3.0_1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/RTC+Rewrite/eclipseLuna 4.4.0/configuration/org.eclipse.osgi/1313/0/.cp/resources/server_runtime/dev/api/spec/com.ibm.ws.javaee.transaction.1.1_1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/aspectjrt-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/aspectjweaver-1.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/avalon-framework-4.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/batik-all-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/cfreport-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/com.ibm.gwa.mq-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/com.ibm.mq-5.3.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/com.ibm.mqjms-5.3.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/com.ibm.ws.webservices.thinclient-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-betwixt-0.8.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-chain-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/commons-validator-1.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/concurrentlinkedhashmap-lru-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/concurrentlinkedhashmap-lru-1.2_jdk5.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/connector-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/db2jcc_license_cisuz.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/db2jcc_license_cu.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/db2jcc4.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/dtdparser-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/fop-0.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/httpclient-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/httpmime-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/ibmjsseprovider-was6.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/itextpdf-5.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/jackson-core-asl.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/jackson-mapper-asl.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/javaee-web-api-6.0.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/java-sizeof-0.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/javassist-3.16.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/jcl-over-slf4j-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/jmqf2-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/jms-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/json-20140107.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/jtidy-r938.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/jxl-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/noggit-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/org.eclipse.persistence.antlr-2.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/org.eclipse.persistence.asm-2.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/org.eclipse.persistence.core-2.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/org.eclipse.persistence.jpa.jpql-2.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/org.eclipse.persistence.jpa-2.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/orika-core-1.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/poi-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/poi-ooxml-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/servletapi-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/soap-was6029.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/solr-core-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/solr-solrj-5.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-aop-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-beans-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-context-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-context-support-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-core-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-data-commons-1.9.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-data-jpa-1.7.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-expression-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-jdbc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-orm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-oxm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-test-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-tx-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-web-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/spring-websocket-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/sun.misc.BASE64Decoder.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/webidentity.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/webidentity-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/WI_client_v6-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/WI_client-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/WI_common-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/woodstox-core-asl-4.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/xercesImpl-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/xml-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/xmlworker-5.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/ePricerDev/ePricer2/rewrite/developmentBranch/workspace/ePricerLib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="output" path="WebContent/WEB-INF/classes"/>
+</classpath>
